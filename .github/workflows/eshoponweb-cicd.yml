@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 5240341c-b33a-4c79-a608-8fd666e5d541
-  WEBAPP-NAME: fredyapp201124-prod
+  WEBAPP-NAME: fredyapp211124-prod
 
 
 jobs:
